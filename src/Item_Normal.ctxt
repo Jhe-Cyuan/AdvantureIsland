@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item_Normal
+comment1.params=ctl\ hurt
+comment1.target=Item_Normal(game.framework.Game,\ int)
+comment2.params=
+comment2.target=game.framework.ImageSequence\ setImg()
+comment3.params=
+comment3.target=int\ setW()
+comment4.params=
+comment4.target=int\ setH()
+comment5.params=role\ rec
+comment5.target=game.framework.Effect\ conflict(game.framework.Role,\ java.awt.Rectangle)
+numComments=6

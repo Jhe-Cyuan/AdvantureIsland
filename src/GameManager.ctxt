@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameManager
+comment0.text=\r\n\ @serial\ \u7269\u4EF6\u5C0E\u5411\u6280\u8853\r\n\ @author\ \u7B2C20\u7D44\r\n\ @member\ \u694A\u54F2\u9293\ /\ \u937E\u8A8C\u6770\ /\ \u66FE\u5FD7\u654F\ /\ \u8CF4\u4EAB\ /\ \u5289\u5CFB\u9298\ /\ \u7F85\u8056\u7693\r\n
+comment1.params=
+comment1.target=void\ levelUp()
+comment2.params=
+comment2.target=java.lang.String\ getLevel()
+comment3.params=newLevel
+comment3.target=void\ SetLevel(java.lang.String)
+numComments=4

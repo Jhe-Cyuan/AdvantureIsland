@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Movement
+comment1.params=model
+comment1.target=game.framework.Model\ updatePos(game.framework.Model)
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=i
+comment3.target=void\ setvx(double)
+comment4.params=i
+comment4.target=void\ setvy(double)
+numComments=5

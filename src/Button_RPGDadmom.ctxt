@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Button_RPGDadmom
+comment1.params=ctl\ mgr
+comment1.target=Button_RPGDadmom(game.framework.Game,\ GameManager)
+comment2.params=
+comment2.target=game.framework.ImageSequence\ setImg()
+comment3.params=
+comment3.target=int\ setX()
+comment4.params=
+comment4.target=int\ setY()
+comment5.params=
+comment5.target=int\ setW()
+comment6.params=
+comment6.target=int\ setH()
+comment7.params=role\ rec
+comment7.target=game.framework.Effect\ conflict(game.framework.Role,\ java.awt.Rectangle)
+numComments=8

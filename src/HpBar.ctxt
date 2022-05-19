@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HpBar
+comment1.params=Hp
+comment1.target=void\ reload(int)
+comment2.params=
+comment2.target=void\ getReady()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ end()
+comment5.params=
+comment5.target=game.framework.Model\ getModel()
+comment6.params=g
+comment6.target=void\ display(java.awt.Graphics)
+comment7.params=role\ rec
+comment7.target=game.framework.Effect\ conflict(game.framework.Role,\ java.awt.Rectangle)
+numComments=8

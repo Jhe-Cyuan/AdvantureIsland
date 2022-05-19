@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Jump
+comment1.params=
+comment1.target=Jump()
+comment2.params=gy
+comment2.target=Jump(double)
+comment3.params=vx\ vy\ gy
+comment3.target=Jump(double,\ double,\ double)
+comment4.params=
+comment4.target=void\ reset()
+comment5.params=model
+comment5.target=game.framework.Model\ updatePos(game.framework.Model)
+comment6.params=i
+comment6.target=void\ setvx(double)
+comment7.params=i
+comment7.target=void\ setvy(double)
+numComments=8

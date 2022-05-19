@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Item_Easy_Effect
+comment1.params=s\ d\ x\ y\ dw\ dh\ cycles
+comment1.target=Item_Easy_Effect(game.framework.Role,\ game.framework.Role,\ int,\ int,\ int,\ int,\ int)
+comment2.params=source\ dest
+comment2.target=void\ effectDone(game.framework.Role,\ game.framework.Role)
+numComments=3
